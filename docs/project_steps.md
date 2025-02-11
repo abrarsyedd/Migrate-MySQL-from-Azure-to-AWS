@@ -52,3 +52,6 @@ This project demonstrates the migration of a MySQL database from Azure to AWS us
 - Mastered **AWS DMS** for full load and **CDC migration**.
 - Delivered a **highly reliable database migration** with minimal downtime.
 - Enhanced understanding of **monitoring tools** like **CloudWatch** and **DMS metrics**.
+
+## 📸 Architecture Diagram
+![AWS Architecture](../images/dms-arch.png)
