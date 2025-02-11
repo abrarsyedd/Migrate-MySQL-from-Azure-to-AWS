@@ -1,5 +1,8 @@
 # Project Steps: Migrate MySQL from Azure to AWS
 
+## 🚀 Project Overview
+This project demonstrates the migration of a MySQL database from Azure to AWS using AWS Database Migration Service (DMS). The migration included a full load of data and ongoing replication with Change Data Capture (CDC) to ensure minimal downtime and data consistency.
+
 ## 🌟 Key Features of the Project
 - **Full Load Migration**: Successfully migrated all existing data from Azure MySQL to AWS RDS MySQL.
 - **Change Data Capture (CDC)**: Enabled CDC to capture and replicate incremental changes in real time.
