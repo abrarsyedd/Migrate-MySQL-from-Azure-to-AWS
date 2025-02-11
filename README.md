@@ -8,5 +8,7 @@
 - Minimal downtime with Change Data Capture (CDC)
 - Secure and scalable database transition
 
-📖 Detailed Project Steps
+## 📖 Detailed Project Steps
 Find the full implementation guide in [docs/project_steps.md](docs/project_steps.md).
+
+🔗 [View the full project documentation](docs/project_steps.md)
